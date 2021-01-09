@@ -7,7 +7,7 @@ function Navbar(){
             <Logo />
             <a href="home" className="logo-text">DS Deliver</a>
         </nav>
-    )
+    );
 }
 
 export default Navbar;
